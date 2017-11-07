@@ -26,8 +26,9 @@ Utilisation
 
 6. La touche **F1** correspond à la fonction _Play_ / _Pause_
 
-7. La touche **Echap** Permet de revenir au menu principal du programme
+7. La touche **Echap** permet de revenir au menu principal du programme
 
+8. La touche **F5** permet de recharger le minuteur
 
 Historique
 ----------
@@ -35,6 +36,7 @@ Historique
 17/10: Beta 0.1
 19/10: Beta 0.2
 24/10 Beta 0.3
+07/11 Beta 0.4
 
 Crédits
 -------
